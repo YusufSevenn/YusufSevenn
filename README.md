@@ -16,7 +16,7 @@
 ---
 
 ### 📈 GitHub İstatistiklerim
-![Yusuf'un GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=YusufSevenn&show_icons=true&theme=radical&hide_border=true)
+![Yusuf'un İstatistikleri](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YusufSevenn&theme=radical)
 
 ---
 
