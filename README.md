@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Bilgisayar Mühendisliği Öğrencisi 
 
-Şu an **Bilgisayar Mühendisliği** 3. sınıf öğrencisiyim. Modern web teknolojileriyle ölçeklenebilir uygulamalar geliştirmeyi ve yapay zeka/simülasyon sistemleri üzerine çalışmayı seviyorum. Ayrıca gömülü sistemler alanında çalışmalarımı sürdürüyorum.
+Şu an **Bilgisayar Mühendisliği** 4. sınıf öğrencisiyim. Modern web teknolojileriyle ölçeklenebilir uygulamalar geliştirmeyi ve yapay zeka/simülasyon sistemleri üzerine çalışmayı seviyorum. Ayrıca gömülü sistemler alanında çalışmalarımı sürdürüyorum.
 
 ---
 
