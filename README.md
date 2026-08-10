@@ -10,7 +10,6 @@
 - **Backend:** NestJS, TypeScript, SQL & T-SQL (Veri tabanı mimarisi ve optimizasyonu)
 - **Frontend:** React, Tailwind CSS
 - **AI & Embedded:** Python, STM32 & Assembly
-- **Diğer:** Formula Racing elektronik devreleri ve araç teknolojileri
 - **Çalışılan Diğer Teknolojiler** C, Java, C++
 
 ---
