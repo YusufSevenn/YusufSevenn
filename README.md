@@ -7,10 +7,9 @@
 ---
 
 ### 🚀 Nelerle İlgileniyorum?
-- **Backend:** NestJS, TypeScript, SQL & T-SQL (Veri tabanı mimarisi ve optimizasyonu)
+- **Backend:** .NET, Java, NestJS, NodeJS, SQL & T-SQL (Veri tabanı mimarisi ve optimizasyonu)
 - **Frontend:** React, Tailwind CSS
-- **AI & Embedded:** Python, STM32 & Assembly
-- **Çalışılan Diğer Teknolojiler** C, Java, C++
+- **AI & Embedded:** Python, STM32 & Assembly 
 
 ---
 
